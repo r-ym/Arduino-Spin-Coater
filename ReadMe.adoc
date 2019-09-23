@@ -33,9 +33,6 @@ Feel free to use and make changes.
 === Contributing
 To contribute to this project please contact r-ym <ramanyachi@gmail.com>
 
-=== BOM
-Add the bill of the materials you need for this project.
-
 |===
 | ID | Part name      | Quantity     
 | L1 | Computer Fan   | 1       
