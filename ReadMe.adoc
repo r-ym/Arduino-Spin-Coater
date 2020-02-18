@@ -4,7 +4,7 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: Arduino Spin coater for lab-grade glove box
 
 Describe your project
 
