@@ -6,8 +6,6 @@
 
 = Project: Arduino Spin coater for lab-grade glove box
 
-Describe your project
-
 == Step 1: Installation
 Flash ino file to Arduino once fan is set up.
 
